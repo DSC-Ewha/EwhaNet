@@ -1,0 +1,12 @@
+.mainMenuStyle{
+    border-bottom: 2px solid transparent !important;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+  }
+.mainMenuStyle:active {
+    border-bottom: 2px solid transparent;
+    border-color: #00462A;
+    color: #00462A;
+    background-color: #00462A;
+  }
+  

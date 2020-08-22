@@ -1,0 +1,18 @@
+.pageMenuStyle {
+    border-bottom: 2px solid transparent !important;
+    border-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
+    
+  }
+.pageMenuStyle:hover {
+    border-bottom: 2px solid transparent !important;
+    border-color: transparent;
+    color: #FFFFFF;
+    /* background-color: #FFFFFF; */
+  }
+  .pageMenuStyle:active {
+    border-bottom: 2px solid transparent !important;
+    border-color: transparent;
+    color: #00462A;
+    /* background-color: #FFFFFF; */
+  }
